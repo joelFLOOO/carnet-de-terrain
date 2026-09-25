@@ -3,7 +3,7 @@
 Outil de saisie d'observations pour le suivi d'élevages piscicoles
 et avicoles à Douala.
 
-**Démo :** https://joelfloo.github.io/carnet-de-terrain/
+**Démo :** https://joelflooo.github.io/carnet-de-terrain/
 
 ## Le problème
 Les relevés de terrain se font sur papier, puis se ressaisissent le
